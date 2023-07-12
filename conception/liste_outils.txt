@@ -1,0 +1,24 @@
+Modelisation: 
+  -StarUML -> UML
+  -Looping -> Merise
+
+Maquettage:
+ -Figma 
+
+API:
+  -Meteo-concept -> données météorologique
+  -waqi -> qualité de l'air
+  -Api découpage administratif > commune -> recensement
+
+Librairie:
+  -Leaflet w/ OpenStreetMap -> cartographie
+  -JDK17 -> lts java
+
+Framework:
+  -Spring -> Backend
+  -Angular -> Frontend
+
+Gestion de projet:
+  -Git/Github -> gestion de version, gestion de projet
+
+
