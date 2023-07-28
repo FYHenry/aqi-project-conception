@@ -1,6 +1,8 @@
 # aqi-project
 ## Projet Pureté de l’air
 
+### Initialisation
+
 Ce projet débute par sa conception via :
 * Un diagramme de cas d’usage en UML ;
 * Un diagramme de classe en UML ;
@@ -17,3 +19,13 @@ Il est consultable dans `/conception/dossier_de_specification.pdf`.
 Un second document, le dossier de conception, indique la stratégie
 à suivre par l’équipe pour développer l’application.
 Il est consultable dans `/conception/dossier_de_conception.pdf`.
+
+### Évolution
+
+Un diagramme de paquets est apparu pour présenter l’évolution du
+projet lors des débuts du serveur HTTP côté _backend_.
+
+![Diagramme de paquets](conception/resources/uml/PackageDiagram.svg)
+
+Il illustre une architecture en couches entre le client HTTP et
+le serveur de base de données.
