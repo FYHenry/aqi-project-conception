@@ -29,3 +29,10 @@ projet lors des débuts du serveur HTTP côté _backend_.
 
 Il illustre une architecture en couches entre le client HTTP et
 le serveur de base de données.
+
+S’ajoute un premier diagramme de séquences pour illustrer le mécanisme
+de requête HTTP du JSON émis au JSON reçu.
+
+![Diagramme de séquence](conception/resources/uml/SequenceDiagram.svg)
+
+Plus exactement ici il s’agit de lire un compte utilisateur en JSON.
